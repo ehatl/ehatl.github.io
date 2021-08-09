@@ -1,0 +1,35 @@
+---
+title: "Ulises E Juarez"
+image: "Ehatl_picture.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ulises-ehatl-juarez-figueroa-b1ba5a144"
+  - label: Twitter
+    url: "https://twitter.com/Ehatl"
+  - label: GitHub
+    url: "https://github.com/ehatl"
+  - label: Email
+    url: "ehatlujf@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Soy Ulises Ehatl Juarez alumno en el Doctorado en ciencias Biomédicas de la UNAM, actualmente trabajo con MicroRNAs en anemia de Fanconi. Estoy en el Instituto Nacional de Peditria (INP).
+
+## Education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
