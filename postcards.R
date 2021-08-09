@@ -12,3 +12,5 @@ usethis::use_git()
 usethis::use_github()
 
 postcards::create_postcard(template = "trestles")
+
+install.packages("fontawesome")

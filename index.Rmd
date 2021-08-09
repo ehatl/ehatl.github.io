@@ -2,34 +2,38 @@
 title: "Ulises E Juarez"
 image: "Ehatl_picture.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "forestgreen")` LinkedIn'
     url: "https://www.linkedin.com/in/ulises-ehatl-juarez-figueroa-b1ba5a144"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", fill = "steelblue")` Twitter'
     url: "https://twitter.com/Ehatl"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "black")` GitHub'
     url: "https://github.com/ehatl"
-  - label: Email
+  - label: '`r fontawesome::fa("fas fa-at", fill = "red")` Email'
     url: "ehatlujf@gmail.com"
 output:
   postcards::trestles
 ---
  
-## Bio
+## Biografía
 
-Soy Ulises Ehatl Juarez alumno en el Doctorado en ciencias Biomédicas de la UNAM, actualmente trabajo con MicroRNAs en anemia de Fanconi. Estoy en el Instituto Nacional de Peditria (INP).
+Soy Ulises Ehatl Juarez alumno en el Doctorado en ciencias Biomédicas de la UNAM, actualmente trabajo con MicroRNAs en anemia de Fanconi. Me interesa aprender analisis de datos genomicos y transcriptomicos en bulk y single cell. He trabajado con llamado de variantes, firmas mutacionales en cáncer, expresion diferencial y actualmete con single cell en médula ósea.
 
-## Education
+## Educación
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Universidad Autónoma de México, Instituto de Investigaciones Biomédicas** | Ciudad de Mexico, CDMX
 
-Ph.D. in Computer Science | September 2009 - May 2014
+cDr en Ciencias Biomédicas | September 2014 - Presente
 
-**The University of California, Berkeley** | Berkeley, CA
+**Universidad Autónoma de México, Facultad de Ciencias** | Ciudad de Mexico, CDMX
 
-B.S. in Computer Science | September 2005 - May 2009
+Maestro en Ciencias Biológicas | September 2011 - May 2014
 
-## Experience
+**Universidad Auténoma de México, Facultad de Ciencias** | Ciudad de Mexico, CDMX
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+Licenciado en Biología | September 2006 - May 2011
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+## Experiencia
+
+**Instituto Nacional de Pediatria** | Ayudante de Investigación en Ciencias Médicas | Marzo 2018 - Presente
+
+
